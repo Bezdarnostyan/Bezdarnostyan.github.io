@@ -2,4 +2,4 @@
 Мой первый сайт
 
 
-[Урок](Bezdarnostyan.github.io/MyFirstProject/scr/) - готово
+[Урок](https://bezdarnostyan.github.io/MyFirstProject/scr/) - готово
